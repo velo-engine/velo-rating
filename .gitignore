@@ -1,0 +1,7 @@
+# V binaries and test caches
+*.dSYM/
+*.tmp.c
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
